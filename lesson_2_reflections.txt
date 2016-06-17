@@ -21,3 +21,10 @@ How would branches help?
 	When you are creating a feature that you are not sure about. You could create a new branch.
 	This will keep your commits orginized. So every commit for that feature would be on that 
 	branch. This will make those commits easy to track and recognize
+
+How do the diagrams help you visualize the branch structure?
+	diagrams help you by putting a actual chart or someting phsyical to represent
+	the branch structure. This lets you get a better picture or when one branch started,
+	vs another. Also lets you see how the commits relate to each other timewise.
+
+
