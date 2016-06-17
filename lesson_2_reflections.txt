@@ -12,3 +12,6 @@ What value do you think it offers?
 	directory to the repository. This gives you more control over what is tracked.
 	You can remove files from the staging area before you commit it if you 
 	accidently added a file.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	You can utilize the staging area to add files that relate to the one commit.
