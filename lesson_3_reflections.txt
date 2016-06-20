@@ -14,3 +14,7 @@ Describe the differences between forkss, clones, and beranches. Wehn would you u
 	or from your local cpu to your local cpu
 
 	You would use a branch when you want to make a parallel code line on the same repository. 
+
+What is the benefit of having a cop of the last known state of the remote stored locally?
+	You could update the last known state of the remote respository locally then access it
+	off line. 
