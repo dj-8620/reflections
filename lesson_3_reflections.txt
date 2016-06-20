@@ -6,3 +6,11 @@ up-to-date with your remote repository?
 	Because you might modify a file that is not up to date with the remote. Then when you check
 	in and  push to the remote you could possible revert someones changes.
 
+Describe the differences between forkss, clones, and beranches. Wehn would you use one instead of another?
+	You would use a fork when you want to clone a repo that is located on GitHub to another location
+	on Github.
+
+	You would use a clone when you want to clone a repository from Github to your local cpu
+	or from your local cpu to your local cpu
+
+	You would use a branch when you want to make a parallel code line on the same repository. 
