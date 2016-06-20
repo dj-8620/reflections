@@ -18,3 +18,8 @@ Describe the differences between forkss, clones, and beranches. Wehn would you u
 What is the benefit of having a cop of the last known state of the remote stored locally?
 	You could update the last known state of the remote respository locally then access it
 	off line. 
+
+How would you collaborate without using Git or GitHub? What would be easier and what would be harder?
+	We would collaborate by sending files back and fourth or by storing files on shared server like 
+	Sharepoint. We would have to merge files manually as well.
+
