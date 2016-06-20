@@ -23,3 +23,9 @@ How would you collaborate without using Git or GitHub? What would be easier and 
 	We would collaborate by sending files back and fourth or by storing files on shared server like 
 	Sharepoint. We would have to merge files manually as well.
 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+	You would want to make changes to a seperate branch when you want to share your changes
+	before actually adding it to the master branch
+
+	
